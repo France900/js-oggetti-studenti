@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-size: 1.5em;
+  /* display: flex;
+  justify-content: center; */
+}
+
+p {
+  margin-top: 25vh;
+}
+
+.container {
+  width: 80%;
+  margin: 25px auto;
+}
